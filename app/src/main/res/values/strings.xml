@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nicker</string>
+    <string name="empty">Enter the valid number</string>
+    <string name="placeholder">Enter Number Here</string>
+    <string name="button">Fetch</string>
+    <string name="before">Table :</string>
+</resources>
